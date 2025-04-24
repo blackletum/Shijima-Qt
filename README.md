@@ -1,3 +1,10 @@
+Hello, blackletum here. I forked this repository because I was thinking recently about getting Shimeji over to C and then I found this wonderful project that does that and more.
+I will be brainstorming what I can do to help with the main project, if anything, since everything I was working on was already done + done better.
+
+Please do check out my favorite Shimeji character available here:
+
+https://ko-fi.com/s/76ea443370
+
 # Shijima-Qt
 
 ![Shijima-Qt running on Fedora 41](.images/Shijima-Qt-Fedora.jpg)
